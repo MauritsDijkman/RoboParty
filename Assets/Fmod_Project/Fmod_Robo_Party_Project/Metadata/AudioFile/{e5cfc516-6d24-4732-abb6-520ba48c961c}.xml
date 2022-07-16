@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e5cfc516-6d24-4732-abb6-520ba48c961c}">
+		<property name="assetPath">
+			<value>Game_3/Game_3_Stomp_No_Hit.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6875056689342403</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ca913bf-4118-4920-a824-0d50b58886d1}</destination>
+		</relationship>
+	</object>
+</objects>

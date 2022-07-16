@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{44589abc-1594-436f-869e-442dcad45a0c}">
+		<property name="assetPath">
+			<value>Game_1/Collecting_BG_Music.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>49.293061224489797</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1ca913bf-4118-4920-a824-0d50b58886d1}</destination>
+		</relationship>
+	</object>
+</objects>

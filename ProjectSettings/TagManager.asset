@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectible
+  - Collectible_Apple
+  - Collectible_Orange
+  - Collectible_Bomb
+  - Ground
+  - Collectible_Lemon
+  - Collectible_Banana
+  - Bucket
+  - Hoop
+  - Bird
+  - Bomb
+  - Oven
+  - Scrap
+  - Ignot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Collectibles
+  - Bucket
+  - Grass
+  - No_Post
+  - Plane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

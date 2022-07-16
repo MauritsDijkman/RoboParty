@@ -1,0 +1,591 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8559428912624153906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637819955617601538
+  FileSizes:
+  - Name: Desktop
+    Value: 1726
+  Exists: 1
+--- !u!114 &-8298671832198903764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_1/Fruit_Squash
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_1/Fruit_Squash
+  Guid:
+    Data1: -1734236045
+    Data2: 1184353681
+    Data3: 857103804
+    Data4: 1329334002
+  Banks:
+  - {fileID: -154009852055153640}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1395
+--- !u!114 &-8042570419339238090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient_Sounds/Game_3/Conveyor_Belt
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient_Sounds/Game_3/Conveyor_Belt
+  Guid:
+    Data1: 2023195125
+    Data2: 1288085436
+    Data3: -762795105
+    Data4: -1533966616
+  Banks:
+  - {fileID: -964746420535747043}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7619229218450340918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Game_2.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Game_2.bank
+  Name: Game_2
+  StudioPath: bank:/Game_2
+  lastModified: 637819955616833575
+  FileSizes:
+  - Name: Desktop
+    Value: 107840
+  Exists: 1
+--- !u!114 &-7160912073428267166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Music_BG
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Music_BG
+  Guid:
+    Data1: -958229701
+    Data2: 1303602213
+    Data3: 1007638955
+    Data4: 557275728
+  Banks:
+  - {fileID: 2089951193672765374}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14200
+--- !u!114 &-6832455730796594503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient_Sounds/Game_2/Ambient_Wind_Sky
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient_Sounds/Game_2/Ambient_Wind_Sky
+  Guid:
+    Data1: 1315174053
+    Data2: 1175077276
+    Data3: 1274650302
+    Data4: 918777911
+  Banks:
+  - {fileID: -964746420535747043}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6266142495921772726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_1/Explosion
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_1/Explosion
+  Guid:
+    Data1: 1680937556
+    Data2: 1169455119
+    Data3: -1338757705
+    Data4: -1536318975
+  Banks:
+  - {fileID: -154009852055153640}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4000
+--- !u!114 &-5743942282217017123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient_Sounds/Game_1/Ambiance
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient_Sounds/Game_1/Ambiance
+  Guid:
+    Data1: 1101197866
+    Data2: 1260939852
+    Data3: -809592441
+    Data4: -1482383215
+  Banks:
+  - {fileID: -964746420535747043}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &-5165239953935323554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient_Sounds/Game_3/Fire
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient_Sounds/Game_3/Fire
+  Guid:
+    Data1: 2064991553
+    Data2: 1076768079
+    Data3: 1148987534
+    Data4: -99847604
+  Banks:
+  - {fileID: -964746420535747043}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4416642051356810645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI_Sounds/Countdown
+  m_EditorClassIdentifier: 
+  Path: event:/UI_Sounds/Countdown
+  Guid:
+    Data1: 1167013340
+    Data2: 1196137072
+    Data3: 266812336
+    Data4: -1261780151
+  Banks:
+  - {fileID: -3744566291201524724}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3744566291201524724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637819955617581563
+  FileSizes:
+  - Name: Desktop
+    Value: 223040
+  Exists: 1
+--- !u!114 &-2792959788554756686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient_Sounds/Game_3/Ambient_Factory
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient_Sounds/Game_3/Ambient_Factory
+  Guid:
+    Data1: 738286885
+    Data2: 1324530053
+    Data3: 1698919304
+    Data4: -1015101087
+  Banks:
+  - {fileID: -964746420535747043}
+  - {fileID: -3744566291201524724}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2565792630990875611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Game_3.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Game_3.bank
+  Name: Game_3
+  StudioPath: bank:/Game_3
+  lastModified: 637819955617232508
+  FileSizes:
+  - Name: Desktop
+    Value: 61920
+  Exists: 1
+--- !u!114 &-2326798905335032760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI_Sounds/Mouse_Click
+  m_EditorClassIdentifier: 
+  Path: event:/UI_Sounds/Mouse_Click
+  Guid:
+    Data1: 482155064
+    Data2: 1147856521
+    Data3: -1665950046
+    Data4: -1508618926
+  Banks:
+  - {fileID: -3744566291201524724}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-964746420535747043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ambient.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Ambient.bank
+  Name: Ambient
+  StudioPath: bank:/Ambient
+  lastModified: 637819955616052180
+  FileSizes:
+  - Name: Desktop
+    Value: 1842944
+  Exists: 1
+--- !u!114 &-614686594434071302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_3/Stomp_Hit
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_3/Stomp_Hit
+  Guid:
+    Data1: 850026331
+    Data2: 1147269849
+    Data3: 1975560628
+    Data4: 803853267
+  Banks:
+  - {fileID: -2565792630990875611}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3187
+--- !u!114 &-592420591480637818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_2/Game_2_Dead
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_2/Game_2_Dead
+  Guid:
+    Data1: 468975904
+    Data2: 1279709355
+    Data3: -823182197
+    Data4: 883520476
+  Banks:
+  - {fileID: -7619229218450340918}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-154009852055153640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Game_1.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Game_1.bank
+  Name: Game_1
+  StudioPath: bank:/Game_1
+  lastModified: 637819955616460589
+  FileSizes:
+  - Name: Desktop
+    Value: 57472
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8559428912624153906}
+  - {fileID: -964746420535747043}
+  - {fileID: -154009852055153640}
+  - {fileID: -7619229218450340918}
+  - {fileID: -2565792630990875611}
+  - {fileID: -3744566291201524724}
+  - {fileID: 2089951193672765374}
+  EditorEvents:
+  - {fileID: -2792959788554756686}
+  - {fileID: -5743942282217017123}
+  - {fileID: -5165239953935323554}
+  - {fileID: -6832455730796594503}
+  - {fileID: -8042570419339238090}
+  - {fileID: -6266142495921772726}
+  - {fileID: -8298671832198903764}
+  - {fileID: -592420591480637818}
+  - {fileID: 7926381235129319805}
+  - {fileID: -614686594434071302}
+  - {fileID: 1021001902106305008}
+  - {fileID: -2326798905335032760}
+  - {fileID: -4416642051356810645}
+  - {fileID: 4203923494109410230}
+  - {fileID: -7160912073428267166}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -3744566291201524724}
+  StringsBanks:
+  - {fileID: -8559428912624153906}
+  cacheTime: 637819955618025487
+  cacheVersion: 10
+--- !u!114 &1021001902106305008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_3/Stomp_No_Hit
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_3/Stomp_No_Hit
+  Guid:
+    Data1: 1771527589
+    Data2: 1096124024
+    Data3: 1318589337
+    Data4: 1572243241
+  Banks:
+  - {fileID: -2565792630990875611}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2089951193672765374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod_Project/Fmod_Robo_Party_Project/Build/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 637819955618025487
+  FileSizes:
+  - Name: Desktop
+    Value: 3236096
+  Exists: 1
+--- !u!114 &4203923494109410230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Game_1_Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Game_1_Music
+  Guid:
+    Data1: 1292055609
+    Data2: 1311420100
+    Data3: -527539012
+    Data4: 550052231
+  Banks:
+  - {fileID: 2089951193672765374}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7926381235129319805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay_Sounds/Game_2/Game_2_Collect_Ring
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay_Sounds/Game_2/Game_2_Collect_Ring
+  Guid:
+    Data1: 337055074
+    Data2: 1186812796
+    Data3: -1087070568
+    Data4: -1091766337
+  Banks:
+  - {fileID: -7619229218450340918}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0

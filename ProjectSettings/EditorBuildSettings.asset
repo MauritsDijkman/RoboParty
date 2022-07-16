@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Final/Scenes/Joining/ConnectingScene.unity
+    guid: ca135c9513817254292880a4f15cb844
+  - enabled: 1
+    path: Assets/Final/Scenes/Games/Game_1.unity
+    guid: def5b9a62479bae429d347c476530aa5
+  - enabled: 1
+    path: Assets/Final/Scenes/Games/Game_2.unity
+    guid: cfe5ea18824de4f4b86427ab623967d8
+  - enabled: 1
+    path: Assets/Final/Scenes/Games/Game_3.unity
+    guid: 66fe4622d538ec142aadfd47c1a7f7f7
+  - enabled: 1
+    path: Assets/Final/Scenes/Other/ScoreScene.unity
+    guid: e6d06919735c221418ee7a38b9448a71
+  - enabled: 1
+    path: Assets/Final/Scenes/Joining/Mobile_Main_Menu.unity
+    guid: eabbdc10ab06b5b44a307063555ee112
+  - enabled: 1
+    path: Assets/Final/Scenes/Joining/PC_Join_Screen.unity
+    guid: 142a14b43bca2f74b942deda99ef45f8
+  - enabled: 1
+    path: Assets/Final/Scenes/Joining/PC_Main_Menu.unity
+    guid: 67d87452428eef440bd4c9b863023ec9
+  - enabled: 1
+    path: Assets/Final/Scenes/Other/VictoryScene.unity
+    guid: 6b097e6dfd8f150419eb68f334837405
+  - enabled: 1
+    path: Assets/Final/Scenes/Other/LoadingScene.unity
+    guid: 5010df6ef1c890b4a9e72725f7c79faf
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 649135fd26dce9a48a6c7aaaedd9243d,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: c425633ab53e9fd49a24e5778a37e473, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 4fec99bdde787844eabd4aee67c6a388, type: 2}
